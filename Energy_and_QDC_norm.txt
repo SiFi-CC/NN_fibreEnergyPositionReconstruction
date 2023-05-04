@@ -1,0 +1,2 @@
+90% of Energy values are below the threshold: 2.6486268267035484
+90% of QDC values are below the threshold: 4104.999988339841
